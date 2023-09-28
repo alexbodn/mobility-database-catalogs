@@ -9,6 +9,6 @@
     "urls": {
         "direct_download": "https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip",
         "latest": "https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip",
-        "license": "https://www.gov.il/BlobFolder/generalpage/gtfs_general_transit_feed_specifications/he/GTFS_Developer_Information_2022.07.27.pdf"
+        "license": "https://www.gov.il/he/Departments/General/gtfs_general_transit_feed_specifications"
     }
 }
