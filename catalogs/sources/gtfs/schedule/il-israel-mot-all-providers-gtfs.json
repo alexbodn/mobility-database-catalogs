@@ -1,0 +1,14 @@
+{
+    "data_type": "gtfs",
+    "provider": "Israel Ministry of Transport",
+    "name": "all public transportation providers in Israel",
+    "status": "active",
+    "location": {
+        "country_code": "IL",
+    },
+    "urls": {
+        "direct_download": "https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip",
+        "latest": "https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip",
+        "license": "https://www.gov.il/BlobFolder/generalpage/gtfs_general_transit_feed_specifications/he/GTFS_Developer_Information_2022.07.27.pdf"
+    }
+}
